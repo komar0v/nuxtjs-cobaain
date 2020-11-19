@@ -43,7 +43,7 @@
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs-cobaain-4hvtjfbt8.vercel.app/halamandua"
+          href="./halamandua"
           target="_blank"
           class="button--green"
         >
