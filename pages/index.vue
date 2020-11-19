@@ -43,11 +43,11 @@
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://nuxtjs-cobaain-4hvtjfbt8.vercel.app/halamandua"
           target="_blank"
           class="button--green"
         >
-          Documentation
+          Ke halaman 2
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
