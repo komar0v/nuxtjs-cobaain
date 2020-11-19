@@ -42,12 +42,10 @@
         WAAAOWAA
       </h2>
       <div class="links">
-        <a
-          href="./halamandua"
-          class="button--green"
-        >
+        <NuxtLink class="button--green" to="/halamandua">
           Ke halaman 2
-        </a>
+        </NuxtLink>
+          
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
