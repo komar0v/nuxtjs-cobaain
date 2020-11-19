@@ -44,7 +44,6 @@
       <div class="links">
         <a
           href="./halamandua"
-          target="_blank"
           class="button--green"
         >
           Ke halaman 2
